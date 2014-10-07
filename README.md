@@ -5,6 +5,7 @@ WPModel
 
 ```php
 <?php
+require 'wpmodel.php';
 
 class Person extends WPModel {
 
