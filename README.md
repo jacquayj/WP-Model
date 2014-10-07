@@ -1,7 +1,11 @@
 WPModel
 =======
 
+<h3>Getting started example:</h3>
+
 ```php
+<?php
+
 class Person extends WPModel {
 
 }
