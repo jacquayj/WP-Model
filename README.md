@@ -1,4 +1,4 @@
-WPModel
+WP-Model
 =======
 
 <h3>Getting started example:</h3>
